@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Math Quest: El Laberinto de los Operadores</title>
+    <title>Misiòn Mates</title>
     <style>
         :root {
             --amarillo: #FFD166;
@@ -205,7 +205,7 @@
         
         <!-- PANTALLA INICIO -->
         <div id="pantalla-inicio" class="pantalla activa">
-            <h1>Math Quest</h1>
+            <h1>Misiòn Mate</h1>
             <p>¡Supera el laberinto resolviendo las operaciones fundamentales! Las respuestas correctas suman y los errores restan puntaje.</p>
             <div style="font-size: 5rem; margin: 15px 0;">🧠⚡🧮</div>
             <button class="btn btn-inicio" onclick="iniciarJuego()">¡COMENZAR DESAFÍO!</button>
